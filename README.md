@@ -1,1 +1,1 @@
-![Munir Alsafi Github Profile](https://i.imgur.com/SFRdXvB.jpg)
+![Munir Alsafi Github Profile](https://i.imgur.com/OoUFGHM.png)
