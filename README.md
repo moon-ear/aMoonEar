@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Munir Alsafi</h3>
+<h1 align="center">👋 Hi there! I'm Munir Alsafi</h3>
 <p align="center">
   <a href="https://www.munir.xyz">Website</a> •
 </p>
