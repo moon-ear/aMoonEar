@@ -1,6 +1,7 @@
-<h1 align="center">👋 Hi there! I'm Munir Alsafi</h3>
+<h1>I'm Munir Alsafi</h1>
+<h2>Software Engineer</h2>
 <p align="center">
-  <a href="https://www.munir.xyz">Website</a> •
+  <a href="https://www.munir.xyz">Website</a>
 </p>
 
 ---
